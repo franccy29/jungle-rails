@@ -1,2 +1,15 @@
-<h1>Admin::Dashboard#show</h1>
-<p>Find me in app/views/admin/dashboard/show.html.erb</p>
+<h1>Admin dashboard</h1>
+<div>
+  <p>
+  There is 
+  <a href="/admin/products"><%= @products.length %></a>
+   differents products.
+  </p>
+</div>
+<div>
+  <p>
+  There is 
+    <a href="/admin/products"><%= @category.length %></a>
+  differents categories.
+  </p>
+</div>
