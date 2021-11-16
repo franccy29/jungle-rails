@@ -47,6 +47,17 @@
         <li>
         <%= link_to 'About us', '/about_us' %>
         </li>
+        <li>
+          <% if current_user %>
+          <a>
+           Signed in as <%= current_user.first_name + " " + current_user.last_name%>
+           </a>
+           <li><%= link_to "Logout", '/logout' %></li>
+          <% else %>
+            <li><%= link_to 'Login', '/login' %> </li> 
+            <li><%= link_to 'Signup', '/signup' %> </li>
+          <% end %>
+        </li>
       </ul>
     </div>
   </div>
