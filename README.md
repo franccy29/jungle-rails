@@ -2,6 +2,8 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+For the Admin username = "Jungle" and password = "book"
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
@@ -27,3 +29,8 @@ Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
 More information in their docs: <https://stripe.com/docs/testing#cards>
 
 
+## Screenshots
+
+!["The home page"]("https://github.com/franccy29/jungle-rails/blob/master/docs/home_page.png")
+!["The cart when ou are about to pay with Stripe"]("https://github.com/franccy29/jungle-rails/blob/master/docs/cart.png")
+!["The admin control over the product that's shown to everyone"]("https://github.com/franccy29/jungle-rails/blob/master/docs/admin_product.png")
