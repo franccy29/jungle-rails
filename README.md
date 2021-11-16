@@ -31,6 +31,6 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Screenshots
 
-!["The home page"]("https://github.com/franccy29/jungle-rails/blob/master/docs/home_page.png")
-!["The cart when ou are about to pay with Stripe"]("https://github.com/franccy29/jungle-rails/blob/master/docs/cart.png")
-!["The admin control over the product that's shown to everyone"]("https://github.com/franccy29/jungle-rails/blob/master/docs/admin_product.png")
+!["The home page"](https://github.com/franccy29/jungle-rails/blob/master/docs/home_page.png)
+!["The cart when ou are about to pay with Stripe"](https://github.com/franccy29/jungle-rails/blob/master/docs/cart.png)
+!["The admin control over the product that's shown to everyone"](https://github.com/franccy29/jungle-rails/blob/master/docs/admin_product.png)
